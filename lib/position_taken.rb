@@ -3,3 +3,4 @@ if board[index] == " "
   false
 
 end
+position_taken?(board,index)
