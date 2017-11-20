@@ -3,4 +3,3 @@ if board[index] == " "
   false
 end
 end
-
